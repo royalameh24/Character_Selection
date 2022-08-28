@@ -46,6 +46,8 @@ class ViewController: UIViewController {
         outlet2.image = UIImage(named: "greatsword")
     }
     
+    //comment test
+    
     
 }
 
